@@ -1115,5 +1115,13 @@
     "cors": "Yes",
     "rateLimit": "Unlimited (no key, read-only, cached static JSON)",
     "https": true
+  },
+  {
+    "name": "Dog API",
+    "url": "https://dog.ceo/dog-api/",
+    "category": "Free & Public APIs",
+    "language": "REST API",
+    "license": "MIT / Free Public API",
+    "description": "Free public REST API providing over 20,000 images of dog breeds and sub-breeds with zero authentication or API key required."
   }
 ]
